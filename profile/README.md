@@ -11,7 +11,7 @@ Repository:
 https://github.com/rhea-engine/rhea
 
 Documentation:
-https://rhea.dev
+https://github.com/rhea-engine/rhea
 
 ### mwpkg
 A package manager for engine modules and development tooling.
