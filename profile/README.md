@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rhea-engine/rhea/main/docs/logo.svg" width="200">
+</p>
 # Meworla
 
 Meworla develops tools and frameworks for building interactive software and games.
